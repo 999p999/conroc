@@ -3,6 +3,7 @@
 ## Author: TerrorBlade
 ## Version: 1.0
 ## SavedVariables: ProximaROSettings
+## IconTexture: Interface\AddOns\ElvUI_CVision\Media\PROXIMAICO2N.png
 
 ProximaROC.lua
 ProximaROC2.lua
