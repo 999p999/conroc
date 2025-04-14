@@ -1,5 +1,5 @@
 ## Interface: 11506   
-## Title: Proxima [Classic ConRO]
+## Title: ElvUI_CVision
 ## Author: TerrorBlade
 ## Version: 1.0
 ## SavedVariables: ProximaROSettings
