@@ -1,0 +1,10 @@
+## Interface: 11506
+## Title: ConrocRNLib
+## Author: TerrorBlade
+## Version: 1.0
+## SavedVariables: ProximaROSettings
+
+ProximaROC.lua
+ProximaROC2.lua
+Utils1.lua
+Utils2.lua
